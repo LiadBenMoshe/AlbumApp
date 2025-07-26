@@ -89,7 +89,7 @@ dotnet ef database update
 dotnet run
 ```
 
-API runs by default at: `https://localhost:5001` or `http://localhost:5000`
+API runs by default at: `https://localhost:5000`
 
 ---
 
