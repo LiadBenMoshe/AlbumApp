@@ -126,13 +126,6 @@ This outputs a static site in `frontend/build`, which can be:
 
 ---
 
-## 📁 File Upload Handling
-
-- Images are uploaded from frontend as base64 via DTO
-- Backend decodes base64 and saves image file locally (e.g., `/uploads`)
-- Metadata (name, date, filename, description) stored in SQL Server
-
----
 
 ## 🛠 Requirements
 
