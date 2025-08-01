@@ -133,3 +133,7 @@ This outputs a static site in `frontend/build`, which can be:
 - [Node.js + npm](https://nodejs.org/)
 - SQL Server (local or cloud)
 - (Optional) Visual Studio / VS Code
+
+## Images
+
+![image-to-look](assets/example.png)
